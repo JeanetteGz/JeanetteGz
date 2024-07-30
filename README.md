@@ -1,6 +1,6 @@
 ![MasterHead](Header.png)
 
-![JeanetteGz's Stats](https://github-readme-stats.vercel.app/api?username=JeanetteGz&theme=synthwave&show_icons=true&hide_border=false&count_private=false)
+
 ![JeanetteGz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeanetteGz&theme=synthwave&hide_border=false)
 ![JeanetteGz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanetteGz&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
